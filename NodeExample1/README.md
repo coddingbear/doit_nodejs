@@ -40,6 +40,7 @@
 
 ### 02-2 콘솔에 로그 뿌리기
  * 노드의 전역 객체(Global Object) : Node Code 어디서나 사용이 import 없이 사용이 가능한 객체
+ 
    | 전역 객체 | 설명  |
    |-----------|--------|
    | console   | 콘솔창에 결과를 보여주는 객체 [API참조](https://nodejs.org/dist/latest-v9.x/docs/api/console.html)
@@ -394,14 +395,14 @@
 ## 3. 스터디 후기
 
 ### 오늘 스터디한 내용 중 발생한 문제, 어려웠던 점, 어떻게 해결했는지
-    - 외장 모듈 nconf에서 nconf.get('OS') 값이 'undefined' 나옴 알고 보니 nconf.env() 빼먹음.
-    - 역시 게시판에 글 올리는게 젤 어려움.
+- 외장 모듈 nconf에서 nconf.get('OS') 값이 'undefined' 나옴 알고 보니 nconf.env() 빼먹음.
+- 역시 게시판에 글 올리는게 젤 어려움.
 
 ### 스터디 후 소감
-    - 이 번장을 하면서 ES6 모듈시스템도 추가로 공부해 봤다. 추세를 볼 때 React, Vue.js 를 다루며  ES6 모듈 방식들이 보이는 것 같다.
-    - 이 번장에 나오지 않는 내장형 모듈이나 메소드들은 본인이 [Node.js API Docs](https://nodejs.org/dist/latest-v8.x/docs/api/)를 참고하면 추가로 공부 해야 할 것 같다.
+- 이 번장을 하면서 ES6 모듈시스템도 추가로 공부해 봤다. 추세를 볼 때 React, Vue.js 를 다루며  ES6 모듈 방식들이 보이는 것 같다.
+- 이 번장에 나오지 않는 내장형 모듈이나 메소드들은 본인이 [Node.js API Docs](https://nodejs.org/dist/latest-v8.x/docs/api/)를 참고하면 추가로 공부 해야 할 것 같다.
 
 ### 다음 스터디 예정일
-    - 2018년 03월 20일
+- 2018년 03월 20일
     
 ### 오늘의 인증 샷
