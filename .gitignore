@@ -1,6 +1,8 @@
 node_modules/
-temp/
-data/
 .tmp/
+dist/
+log/
+
+*.tmp
+output*.txt
 *.log
-*.error

@@ -12,6 +12,9 @@
   "author": "NodePlay",
   "license": "MIT",
   "dependencies": {
-    "nconf": "^0.10.0"
+    "moment": "^2.21.0",
+    "nconf": "^0.10.0",
+    "winston": "^2.4.1",
+    "winston-daily-rotate-file": "^3.0.0"
   }
 }
